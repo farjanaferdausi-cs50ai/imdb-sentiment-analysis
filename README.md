@@ -44,8 +44,8 @@ All three models are trained under a consistent, stratified train/validation/tes
 
 ```
 ├── imdb_sentiment_analysis.ipynb   # Full notebook: data loading, preprocessing,
-│                                    # all three models, evaluation, and analysis
-├── requirements.txt                 # Python dependencies
+│                                   # all three models, evaluation, and analysis
+├── requirements.txt                # Python dependencies
 ├── .gitignore
 └── README.md
 ```
