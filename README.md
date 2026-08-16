@@ -61,4 +61,5 @@ All three models are trained under a consistent, stratified train/validation/tes
 **Farjana Ferdausi**
 
 AI Engineering Fellow — Google Cloud Gen AI Academy (Cohort 3) | Agentic AI · RAG · Gemini · ADK · BigQuery MCP · Cloud Run | AI Intern @ CodeAlpha | Former HR Professional (14+ yrs)
-*Built as part of the Ostad, AI/ML Engineering Boothcamp (Batch 6).*
+
+**Built as part of the Ostad, AI/ML Engineering Boothcamp (Batch 6).**
