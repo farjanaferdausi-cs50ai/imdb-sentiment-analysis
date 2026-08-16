@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model checkpoints / large artifacts
+bert_sentiment_checkpoints/
+*.bin
+*.safetensors
+
+# OS
+.DS_Store
