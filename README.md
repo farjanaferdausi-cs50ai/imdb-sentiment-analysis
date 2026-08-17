@@ -71,7 +71,10 @@ All three models are trained under a consistent, stratified train/validation/tes
 ## Author
 
 **Farjana Ferdausi**
-AI Engineering Fellow, Google Cloud Gen AI Academy · [GitHub](https://github.com/farjanaferdausi-cs50ai)
+AI Engineering Fellow, Google Cloud Gen AI Academy · 
 
+GitHub repo: https://github.com/farjanaferdausi-cs50ai
+LinkedIn Link: www.linkedin.com/in/farjana-ferdausi  
+Medium Link: https://medium.com/@farjana.rafi1983
 *Built as part of the Ostad AI/ML Engineering Program (Batch 6).*
 
